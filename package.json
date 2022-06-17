@@ -1,0 +1,21 @@
+{
+  "name": "l3Es2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gabcerqueira/l3Es2.git",
+  "author": "gabcerqueira <gabcsilva97@gmail.com>",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "tsc": "^2.0.4"
+  },
+  "devDependencies": {
+    "jest": "^28.1.1",
+    "ts-jest": "^28.0.5",
+    "@types/jest": "^28.1.1",
+    "typescript": "^4.7.3"
+  }
+}
